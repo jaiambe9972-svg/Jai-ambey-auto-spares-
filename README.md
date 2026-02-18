@@ -1,29 +1,4 @@
-# Jai-ambey-auto-spares-
-To wheeler parts genuine original parts
-<!DOCTYPE html>
-<html lang="hi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jai Ambey Automobiles</title>
-    <style>
-        body { font-family: sans-serif; text-align: center; background-color: #f4f4f4; padding: 20px; }
-        .container { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-        h1 { color: #d32f2f; }
-        .contact-btn { background: #25d366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Jai Ambey Automobiles</h1>
-        <p><b>Two Wheeler Genuine Original Parts</b></p>
-        <p>Humare yahan sabhi prakar ke original parts milte hain.</p>
-        <hr>
-        <p>Sahi rate aur asli maal ke liye sampark karein:</p>
-        <a href="tel:+919999999999" class="contact-btn">📞 Call Karein</a>
-    </div>
-</body>
-</html>
+# JAI AMBEY  AUTO SPARES 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -92,4 +67,32 @@ To wheeler parts genuine original parts
             <div>
                 <h3 class="text-3xl font-bold mb-6">Visit Our Shop</h3>
                 <p class="mb-4 text-gray-700 font-bold">📍 Location:</p>
-                <p class="text-gray-600 mb-6">
+                <p class="text-gray-600 mb-6">Near Canara Bank, Varthur Main Road, Varthur, Bengaluru - 560087</p>
+                <p class="mb-2 font-bold">⏰ Business Hours:</p>
+                <p class="text-gray-600 mb-6">9:00 AM - 10:00 PM (Everyday)</p>
+                <a href="tel:+91XXXXXXXXXX" class="inline-block bg-black text-white px-6 py-2 rounded font-bold mr-4">Call Now</a>
+                <a href="https://wa.me/91XXXXXXXXXX" class="inline-block bg-green-600 text-white px-6 py-2 rounded font-bold">WhatsApp Us</a>
+            </div>
+            <div class="bg-gray-200 h-64 rounded-lg flex items-center justify-center">
+                <p class="text-gray-500 font-bold">[Google Map Link Will Go Here]</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-black text-gray-500 py-6 text-center border-t border-gray-800">
+        <p>&copy; 2026 Jai Ambey Auto Spares. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+<div class="bg-white p-4 shadow-md rounded-lg text-center">
+    <img src="engine-oil-photo.jpg" alt="Liqui Moly" class="w-full h-40 object-cover mb-4">
+    <h4 class="font-bold text-lg">Liqui Moly 10W-40</h4>
+    <p class="text-red-600 font-bold text-xl">₹850</p>
+    <a href="https://wa.me/919972881442
+text=I+want+to+buy+Liqui+Moly+Oil" 
+       class="mt-4 inline-block bg-green-500 text-white px-4 py-2 rounded font-bold">
+       Order on WhatsApp
+    </a>
+</div>
+
