@@ -153,4 +153,25 @@ text=I+want+to+buy+Liqui+Moly+Oil"
     <a href="https://wa.me/91XXXXXXXXXX" class="fixed bottom-6 right-6 bg-green-500 text-white p-4 rounded-full shadow-2xl hover:scale-110 transition z-50">
         <p class="text-[10px] text-center">Chat with Us</p>
         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16"><path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8 p-6">
+    
+    <div class="bg-yellow-50 border-l-8 border-yellow-500 rounded-lg p-6 shadow-md flex items-center">
+        <div class="flex-1">
+            <h3 class="text-2xl font-bold text-black mb-2">⚡ Two-Wheeler Batteries</h3>
+            <p class="text-sm text-gray-700">Amaron & Exide - With Full Warranty & Exchange Offer.</p>
+            <a href="https://wa.me/91XXXXXXXXXX?text=Battery+Price+Inquiry" class="mt-4 inline-block font-bold text-yellow-700">Check Exchange Price →</a>
+        </div>
+        <i class="fas fa-car-battery text-5xl text-yellow-500 ml-4"></i>
+    </div>
+
+    <div class="bg-blue-50 border-l-8 border-blue-500 rounded-lg p-6 shadow-md flex items-center">
+        <div class="flex-1">
+            <h3 class="text-2xl font-bold text-black mb-2">⚙️ Bearings (Barang)</h3>
+            <p class="text-sm text-gray-700">SKF & NBC Original Bearings for smooth wheel rotation.</p>
+            <a href="https://wa.me/91XXXXXXXXXX?text=Bearing+Availability" class="mt-4 inline-block font-bold text-blue-700">Check Size & Stock →</a>
+        </div>
+        <i class="fas fa-cog text-5xl text-blue-500 ml-4"></i>
+    </div>
+
+</div>
 
