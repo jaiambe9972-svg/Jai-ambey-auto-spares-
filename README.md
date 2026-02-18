@@ -174,4 +174,96 @@ text=I+want+to+buy+Liqui+Moly+Oil"
     </div>
 
 </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jai Ambey Auto Spares | Varthur - Genuine Bike Parts</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="bg-gray-50 text-gray-900">
+
+    <header class="bg-black text-white p-4 sticky top-0 z-50 shadow-md">
+        <div class="container mx-auto flex justify-between items-center">
+            <div>
+                <h1 class="text-2xl font-black text-red-600 tracking-tighter">
+<section class="relative bg-black h-[500px] flex items-center justify-center overflow-hidden">
+    <div class="absolute inset-0 opacity-40">
+        <img src="https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1350&q=80" class="w-full h-full object-cover">
+    </div>
+    
+    <div class="relative z-10 text-center px-4 animate__animated animate__zoomIn">
+        <span class="bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest mb-4 inline-block">Varthur's Most Trusted Shop</span>
+        <h2 class="text-5xl md:text-7xl font-black text-white mb-4">PREMIUM <span class="text-red-600">AUTO SPARES</span></h2>
+        <p class="text-xl text-gray-300 mb-8 max-w-2xl mx-auto italic font-light">
+            Genuine Parts • Premium Engine Oils • Heavy Duty Tyres • Original Batteries
+        </p>
+        <div class="flex flex-col md:flex-row gap-4 justify-center">
+            <a href="https://wa.me/919972881442" class="bg-red-600 hover:bg-red-700 text-white text-lg px-10 py-4 rounded-md font-bold transition-all transform hover:scale-105 shadow-xl">
+                Order Parts Now
+            </a>
+            <a href="tel:+919972881442" class="bg-transparent border-2 border-white text-white text-lg px-10 py-4 rounded-md font-bold hover:bg-white hover:text-black transition-all">
+                Call Expert
+            </a>
+        </div>
+    </div>
+</section>
+
+<div class="bg-white py-4 shadow-sm border-b overflow-hidden">
+    <div class="container mx-auto flex justify-around items-center text-sm font-bold text-gray-500 uppercase tracking-tighter opacity-70">
+        <span>SKF Bearings</span>
+        <span>•</span>
+        <span>Amaron Battery</span>
+        <span>•</span>
+        <span>Liqui Moly</span>
+        <span>•</span>
+        <span>MRF Tyres</span>
+        <span>•</span>
+        <span>RE Genuine</span>
+    </div>
+</div>
+<section class="py-16 bg-slate-50">
+    <div class="container mx-auto px-4">
+        <div class="text-center mb-12">
+            <h2 class="text-4xl font-black text-gray-900 uppercase italic">Hamara Huge Stock</h2>
+            <div class="h-1 w-24 bg-red-600 mx-auto mt-2"></div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="bg-white rounded-2xl shadow-xl overflow-hidden hover:shadow-2xl transition duration-300">
+                <img src="https://images.unsplash.com/photo-1547471080-7cc20329069d?auto=format&fit=crop&w=500&q=60" alt="LED Bulbs" class="w-full h-56 object-cover">
+                <div class="p-6">
+                    <h3 class="font-bold text-xl mb-2 text-blue-600 uppercase italic">LED & Headlight Bulbs</h3>
+                    <p class="text-gray-600 text-sm mb-4">High intensity light for night safety. Guidy bulbs aur Police lights bhi available.</p>
+                    <a href="https://wa.me/919972881442?text=LED+Bulb+Price" class="block text-center bg-black text-white py-2 rounded-lg font-bold">Ask Price</a>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-2xl shadow-xl overflow-hidden hover:shadow-2xl transition duration-300">
+                <img src="https://images.unsplash.com/photo-1590502593747-42a996133562?auto=format&fit=crop&w=500&q=60" alt="Spray Paint" class="w-full h-56 object-cover">
+                <div class="p-6">
+                    <h3 class="font-bold text-xl mb-2 text-pink-600 uppercase italic">Premium Spray Paints</h3>
+                    <p class="text-gray-600 text-sm mb-4">Bike ko naya jaisa banayein. All colors available - Glossy and Matte finish.</p>
+                    <a href="https://wa.me/919972881442?text=Spray+Paint+Colors" class="block text-center bg-black text-white py-2 rounded-lg font-bold">Check Colors</a>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-2xl shadow-xl overflow-hidden hover:shadow-2xl transition duration-300">
+                <img src="https://images.unsplash.com/photo-1558981420-87aa9dad1c89?auto=format&fit=crop&w=500&q=60" alt="Chain Kit" class="w-full h-56 object-cover">
+                <div class="p-6">
+                    <h3 class="font-bold text-xl mb-2 text-red-600 uppercase italic">Rolon Chain Kits</h3>
+                    <p class="text-gray-600 text-sm mb-4">Heavy duty chain and sprocket sets. Smooth ride aur noise-free performance.</p>
+                    <a href="https://wa.me/919972881442?text=Rolon+Chain+Kit" class="block text-center bg-black text-white py-2 rounded-lg font-bold">Buy Now</a>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-2xl shadow-xl overflow-hidden hover:shadow-2xl transition duration-300">
+                <img src="https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=500&q=60" alt="Minda Spares" class="w-full h-56 object-cover">
+                <div class="p-6">
+                    <h3 class="font-
+<meta name="description" content="Jai Ambey Auto Spark Varthur - Genuine bike spare parts, Rolon chain kits, Minda electricals, LED bulbs, and premium engine oils at best prices.">
+<meta name="keywords" content="Bike parts Varthur, Motorcycle spares Bangalore, Jai Ambey Auto, LED bulbs for bike, Rolon chain kit Varthur, MRF Tyres Varthur">
 
