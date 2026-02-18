@@ -266,4 +266,54 @@ text=I+want+to+buy+Liqui+Moly+Oil"
                     <h3 class="font-
 <meta name="description" content="Jai Ambey Auto Spark Varthur - Genuine bike spare parts, Rolon chain kits, Minda electricals, LED bulbs, and premium engine oils at best prices.">
 <meta name="keywords" content="Bike parts Varthur, Motorcycle spares Bangalore, Jai Ambey Auto, LED bulbs for bike, Rolon chain kit Varthur, MRF Tyres Varthur">
+<section class="py-16 bg-black text-white">
+    <div class="container mx-auto px-4 text-center">
+        <h2 class="text-3xl font-bold mb-8">Royal Enfield Experience</h2>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+            <div class="aspect-video bg-zinc-900 rounded-lg overflow-hidden border-2 border-red-600">
+                <iframe class="w-full h-full" src="https://www.youtube.com/embed/I2pqFB8i8nw" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="aspect-video bg-zinc-900 rounded-lg overflow-hidden border-2 border-red-600">
+                <iframe class="w-full h-full" src="https://www.youtube.com/embed/yBnTH4nUBcs" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
 
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <img src="[attachment_0](attachment)" class="rounded-lg shadow-lg hover:scale-105 transition">
+            <img src="[attachment_1](attachment)" class="rounded-lg shadow-lg hover:scale-105 transition">
+            <img src="http://googleusercontent.com/image_collection/image_retrieval/1557786205320975346_1" class="rounded-lg shadow-lg hover:scale-105 transition">
+            <img src="http://googleusercontent.com/image_collection/image_retrieval/1557786205320975346_2" class="rounded-lg shadow-lg hover:scale-105 transition">
+        </div>
+    </div>
+</section>
+
+<section class="py-16 bg-red-50 text-gray-900">
+    <div class="container mx-auto px-4">
+        <div class="text-center mb-10">
+            <h2 class="text-3xl font-black text-red-600 uppercase italic">Honda Activa & Dio Experts</h2>
+            <p class="text-gray-600">Activa 3G/4G/5G/6G aur Dio ke 100% Genuine Parts</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+            <div class="grid grid-cols-2 gap-4">
+                <img src="[attachment_0](attachment)" class="rounded-lg shadow-md border-2 border-red-200">
+                <img src="[attachment_1](attachment)" class="rounded-lg shadow-md border-2 border-red-200">
+            </div>
+
+            <div class="bg-white p-8 rounded-2xl shadow-lg border-l-8 border-red-600">
+                <h3 class="text-2xl font-bold mb-4">Kya Kya Milega?</h3>
+                <ul class="grid grid-cols-1 gap-3 font-semibold text-gray-700">
+                    <li><i class="fas fa-cog text-red-600 mr-2"></i> Genuine V-Belts & Rollers</li>
+                    <li><i class="fas fa-cog text-red-600 mr-2"></i> Brake Shoes & Cables</li>
+                    <li><i class="fas fa-cog text-red-600 mr-2"></i> Original Air Filters & Plugs</li>
+                    <li><i class="fas fa-cog text-red-600 mr-2"></i> Full Body Panels (Fibre & Metal)</li>
+                    <li><i class="fas fa-cog text-red-600 mr-2"></i> Indicators & Headlights</li>
+                </ul>
+                <div class="mt-8">
+                    <a href="https://wa.me/919972881442?text=Activa+Dio+Parts+Enquiry" class="bg-red-600 text-white px-8 py-3 rounded-full font-bold hover:bg-red-700">Stock Check Karein</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
